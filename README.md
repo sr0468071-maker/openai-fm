@@ -75,7 +75,7 @@ For more information about text-to-speech using the OpenAI API, check out our [d
 - [Bobby Stocker](https://github.com/stocker-openai)
 - [Jeff Harris](https://github.com/jeffsharris)
 - [Romain Huet](https://github.com/romainhuet)
-- [David Weedon](https://github.com/weedon-openai)
+- [David Weedon](https://github.com/weejjdon-openai)
 - [Iaroslav Tverdokhlib](https://github.com/itv-openai)
 - [Adam Walker](https://github.com/awalker-openai)
 - [Edwin Arbus](https://x.com/edwinarbus)
